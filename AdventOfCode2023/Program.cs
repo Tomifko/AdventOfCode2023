@@ -39,25 +39,5 @@ foreach (string line in inputArray)
     part2solution += sum;
 }
 Console.WriteLine("Day 01, Part I solution: " + part2solution);
-
-
-
-
-
-
-
-
-
-//for (int i = 0; i < inputArray.Length; i++)
-//{
-//    for (int j = 0; j < inputArray[i].Length; j++)
-//    {
-//        if (char.IsDigit(inputArray[i][j]))
-//        {
-
-//        }
-//    }
-//}
-
-Console.ReadLine();
 #endregion
+
